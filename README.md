@@ -1,4 +1,4 @@
-# [Your Name] - Data Analysis Portfolio
+# Dr Austin Anyanwu - Data Analysis Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
@@ -14,7 +14,8 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Project Title One
+### NexusBank Nigeria Ltd — Financial Performance Dashboard (2021–2025)
+
 *A brief description of your project, the tools used, and the key insights derived.*
 
 ### Project Title Two
